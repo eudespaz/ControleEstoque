@@ -1,0 +1,52 @@
+body{
+	font: draft;
+}
+#principal {
+	width:900px;
+	padding-bottom:0px;
+	padding-top:5px;	
+}
+.nao_imprimir {
+	display: none;
+}
+.nao_imprimir2 {
+	display: none;	
+}
+#search{
+	display: none;
+}
+
+#assinar {
+	display: inline;
+	}
+.td{
+	border:none;
+}
+
+.preco{
+	border:none;
+	}
+ #topo{
+       height:50px;
+ }
+#topo h1{
+	display:none;
+}
+
+#emitido{
+	display:inline;
+}
+
+.wrapper1{
+	display:none;
+}
+
+#auxiliar{
+	display:none;
+	}
+#menu {
+	display:none;
+}
+form{
+display:none;
+}

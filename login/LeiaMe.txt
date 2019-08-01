@@ -1,0 +1,10 @@
+-= INSTALACAO =-
+- Acesse config.php
+- Preencha suas informacoes MySQL
+- Acesse sql/install.php
+
+Sucesso:
+	Delete a pasta sql
+
+Erro:
+	Execute tabelas.sql e instale manualmente
